@@ -1,0 +1,4 @@
+A simple setniment analysis of twitter stream using stanfordnlp
+
+add twitter authentication credentials in TwitterStream.scala and run to see
+results to stdout
